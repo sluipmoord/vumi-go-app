@@ -1,7 +1,7 @@
 {
-  "name": "vumi-go-skeleton",
+  "name": "vumi-go-app",
   "version": "0.0.1",
-  "description": "A Vumi Go skeleton application.",
+  "description": "A Vumi Go test application.",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -25,7 +25,7 @@
     "ussd",
     "sms"
   ],
-  "author": "Mike Jones <mike@westerncapelabs.com>",
+  "author": "Sluipmoord <gerhard@teamgeek.co.za>",
   "license": "BSD",
   "readmeFilename": "README"
 }

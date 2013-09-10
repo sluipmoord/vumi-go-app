@@ -1,1 +1,1 @@
-require("./test-vumi-go-skeleton.js")
+require("./test-vumi-go-app.js")
